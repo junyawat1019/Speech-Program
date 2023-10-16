@@ -1,0 +1,22 @@
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\bin\Debug\Speech Program.exe.config
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\bin\Debug\Speech Program.exe
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\bin\Debug\Speech Program.pdb
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.AssemblyReference.cache
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.SuggestedBindingRedirects.cache
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech_Program.Form1.resources
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech_Program.Properties.Resources.resources
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.GenerateResource.cache
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.CoreCompileInputs.cache
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.exe
+D:\Studio\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.pdb
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\bin\Debug\Speech Program.exe.config
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\bin\Debug\Speech Program.exe
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\bin\Debug\Speech Program.pdb
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.AssemblyReference.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.SuggestedBindingRedirects.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech_Program.Form1.resources
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech_Program.Properties.Resources.resources
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.GenerateResource.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.csproj.CoreCompileInputs.cache
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.exe
+D:\Daryl Productions\Project\C, C++, C#\C#\Speech Program\Speech Program\obj\Debug\Speech Program.pdb
